@@ -1,6 +1,9 @@
 # CVGC-AL
 Car video game controller using Arduino Leonardo
 
+###ENG###
+-coming soon-
+
 ###HUN###
 Szükséges hard és szoftver elemek
 -A kormány modul
